@@ -16,3 +16,9 @@ description: 仓库的整体分类
 * 数学 
 * 3D点云
 
+{% page-ref page="./" %}
+
+\[超详细！Github团队协作教程（Gitkraken版）\]\([https://www.cnblogs.com/thousfeet/p/7840932.html](https://www.cnblogs.com/thousfeet/p/7840932.html)\)
+
+
+
